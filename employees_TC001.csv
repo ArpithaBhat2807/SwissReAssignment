@@ -1,0 +1,12 @@
+Id,firstName,lastName,salary,managerId
+1,Joe,Doe,150000,
+2,Martin,Chekov,50000,1
+3,Bob,Ronstad,60000,1
+4,Alice,Smith,45000,2
+5,Brett,Hardleaf,45000,2
+6,Clara,West,55000,3
+7,David,Lee,53000,3
+8,Eva,Green,50000,4
+9,Frank,Stone,48000,8
+10,Gina,Hall,46000,9
+11,Henry,King,44000,10
